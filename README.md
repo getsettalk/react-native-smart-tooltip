@@ -1,3 +1,5 @@
+![owntooltipimage](https://github.com/user-attachments/assets/8e0bdab6-056e-4626-bbf6-6e84b5005a25)
+
 # react-native-smart-tooltip
 
 A lightweight, auto-positioning tooltip for React Native. It automatically calculates the position of the target element and opens the tooltip where there is available space (top or bottom), ensuring it never gets clipped off the screen.
@@ -5,10 +7,10 @@ A lightweight, auto-positioning tooltip for React Native. It automatically calcu
 Zero dependencies. Built entirely using React Native's native `Animated` API to avoid Reanimated layout conflicts.
 
 ## Features
-- 🚀 **Auto-positioning**: Automatically decides whether to show above or below the element.
-- 🛡️ **Edge-safe**: Prevents the tooltip from bleeding outside the screen boundaries.
-- 🎯 **Smart Pointer**: The triangle arrow always points exactly to the center of your target icon/text.
-- ⚡️ **Zero external dependencies**: No `react-native-reanimated` required.
+-  **Auto-positioning**: Automatically decides whether to show above or below the element.
+-  **Edge-safe**: Prevents the tooltip from bleeding outside the screen boundaries.
+-  **Smart Pointer**: The triangle arrow always points exactly to the center of your target icon/text.
+-  **Zero external dependencies**: No `react-native-reanimated` required.
 
 ## Installation
 
