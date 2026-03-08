@@ -1,7 +1,7 @@
 {
   "name": "react-native-smart-tooltip",
-  "version": "1.0.0",
-  "description": "A highly responsive, auto-positioning smart tooltip for React Native",
+  "version": "1.0.1",
+  "description": "Highly responsive, auto-positioning smart tooltip for React Native",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
